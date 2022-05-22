@@ -11,3 +11,6 @@ Mirrors img through y axis using openCV
 ## Goal:
 * Mirror the top half of an img onto the bottom half.
 * Practice using openCV
+
+## Ouput:
+assets/mirrored-github.png
